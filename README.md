@@ -1,3 +1,3 @@
-# Jamface Github Page
+# Github Pages
 
-Currently just a simple landing page created for fun.
+Testing (WIP)
