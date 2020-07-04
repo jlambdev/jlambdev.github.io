@@ -1,3 +1,3 @@
-# Testing the new site
+# Index
 
-Using a markdown file instead of HTML
+Using a markdown file instead of HTML.
