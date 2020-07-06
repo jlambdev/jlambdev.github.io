@@ -14,7 +14,7 @@ Serves 2-3 people
 | 1/2 tsp            | kosher salt           |
 | 6                  | bratwurst sausages    |
 | 1 350-500ml bottle | black beer / dark ale |
-|                    | plain flour           |
+| 1 tbsp             | plain flour           |
 |                    | bread (optional)      |
 
 ## Instructions
@@ -31,6 +31,8 @@ Serves 2-3 people
 
 6. Remove the bratwurst and put under the grill for 2-4 minutes to brown the outside, or cook them in a separate pan.
 
-7. Thicken the broth by adding some flour if needed.
+7. Remove most of the liquid from the broth, add the flour and cook at least 1 minute (this will remove the floury taste).
 
-8. Return the bratwurst to the broth and serve from the pan, or transfer the broth to a gravy boat :)
+8. Add the liquid back to the broth/flour mix.
+
+9. Return the bratwurst to the broth and serve from the pan, or transfer the broth to a gravy boat :)
