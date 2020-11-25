@@ -13,6 +13,7 @@ Serves 5-6 people
 | 3 cloves    | garlic           |
 | small piece | ginger           |
 | 2 medium    | yellow onions    |
+| 2 - 3       | spring onions    |
 | 3 medium    | potatoes         |
 | 1 bag       | green beans      |
 | 1 handful   | garden peas      |
@@ -20,6 +21,7 @@ Serves 5-6 people
 | 1           | stock cube / pot |
 | 1 can       | coconut milk     |
 | 2 - 3 mugs  | brown rice       |
+|             | fresh coriander  |
 |             | coconut oil      |
 |             | soy sauce        |
 |             | turmeric         |
@@ -39,7 +41,7 @@ Serves 5-6 people
 
 6. Add the garlic, ginger and curry paste. Stir for 30 seconds. Start boiling around 1/2 litre of water.
 
-7. Stop the heat from the stove. Add the bell peppers, chickpeas, potatoes. Stir a bit.
+7. Stop the heat from the stove. Add the bell peppers, spring onions, chickpeas, potatoes. Stir a bit.
 
 8. Once the water is boiled, add the stockpot and about 1/2 litre of water. Make sure the stock cube or pot is well dispersed (if using a stock cube, make the broth beforehand).
 
@@ -52,3 +54,5 @@ Serves 5-6 people
 12. For the rice, measure 2 + 1/2 mugs of water for each 1 mug of rice. You could use the coconut milk if you wish instead of (or in addition to) the water.
 
 13. Cook on a gentle simmer for 30 minutes (for brown rice), or as long as the instructions on the packet tell you to cook it for.
+
+14. Chop the leaves and add the fresh coriander if you have any. Give it one last stir and then serve. Enjoy!
