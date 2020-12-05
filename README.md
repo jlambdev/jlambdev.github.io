@@ -5,3 +5,4 @@
 -   [Broccoli with Garlic and Lemon](https://jlambdev.github.io/docs/broccoligarliclemon)
 -   [Habanero Deviled Eggs](https://jlambdev.github.io/docs/deviledeggs)
 -   [Slow cooked Thai Green Curry](https://jlambdev.github.io/docs/thaigreencurry)
+-   [Spinach and Feta Pastry Braid](https://jlambdev.github.io/docs/spinachcheesebraid)
