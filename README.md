@@ -6,3 +6,6 @@
 -   [Habanero Deviled Eggs](https://jlambdev.github.io/docs/deviledeggs)
 -   [Slow cooked Thai Green Curry](https://jlambdev.github.io/docs/thaigreencurry)
 -   [Spinach and Feta Pastry Braid](https://jlambdev.github.io/docs/spinachcheesebraid)
+-   [Aubergine and Chickpea Casserole](https://jlambdev.github.io/docs/auberginecasserole)
+-   Salmon and Leek Lasagna
+-   Pasta Amatriciana
