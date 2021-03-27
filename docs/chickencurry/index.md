@@ -1,6 +1,6 @@
 # Chicken Curry with Mustard Seeds
 
-Picture TBA
+![alt text](chickencurry.png "Chicken Curry with Mustard Seeds")
 
 ## Ingredients
 
