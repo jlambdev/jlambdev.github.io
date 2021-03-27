@@ -7,5 +7,6 @@
 -   [Slow cooked Thai Green Curry](https://jlambdev.github.io/docs/thaigreencurry)
 -   [Spinach and Feta Pastry Braid](https://jlambdev.github.io/docs/spinachcheesebraid)
 -   [Aubergine and Chickpea Casserole](https://jlambdev.github.io/docs/auberginecasserole)
+-   [Chicken Curry with Mustard Seeds](https://jlambdev.github.io/docs/chickencurry)
 -   Salmon and Leek Lasagna
 -   Pasta Amatriciana

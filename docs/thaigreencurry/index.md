@@ -1,6 +1,6 @@
 # Slow cooked Thai Green Curry
 
-TBC
+TBA
 
 ## Ingredients
 
