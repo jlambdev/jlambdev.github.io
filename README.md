@@ -8,5 +8,5 @@
 -   [Spinach and Feta Pastry Braid](https://jlambdev.github.io/docs/spinachcheesebraid)
 -   [Aubergine and Chickpea Casserole](https://jlambdev.github.io/docs/auberginecasserole)
 -   [Chicken Curry with Mustard Seeds](https://jlambdev.github.io/docs/chickencurry)
+-   [Torrijas](https://jlambdev.github.io/docs/torrijas)
 -   Salmon and Leek Lasagna
--   Pasta Amatriciana
