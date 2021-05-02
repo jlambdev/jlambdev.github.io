@@ -10,10 +10,12 @@
 -   [Chicken Curry with Mustard Seeds ✯](https://jlambdev.github.io/docs/chickencurry)
 -   [Torrijas ⓥ](https://jlambdev.github.io/docs/torrijas)
 -   [Jambalaya](https://jlambdev.github.io/docs/jambalaya)
+-   Tortilla ⓥ
+-   Mushroom and Red Wine Risotto ⓥ
+-   Cod in Parsley Sauce
 -   Salmon and Leek Lasagna
 -   Kanelbullar (Swedish Cinnamon Rolls) ⓥ
 -   Forell with Turmeric Onions & Potatoes
--   Fish fillets in Parsley Sauce
 
 Recipes marked with ⓥ are vegetarian. In some cases they are vegan / plant-based substitutes can be used.
 
