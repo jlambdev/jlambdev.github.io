@@ -28,4 +28,4 @@ Serves 2 people
 
 6. Get a large plate, press it against the top of the pan and turn the plate together with the pan to flip the tortilla. Slide the tortilla back into the pan to cook the other side. Cook for 5 minutes.
 
-7. Do one more flip with a clean plate and serve
+7. Do one more flip with a clean plate and serve.
