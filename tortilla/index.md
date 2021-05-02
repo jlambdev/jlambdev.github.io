@@ -4,12 +4,28 @@
 
 ## Ingredients
 
-Serves 2-3 people
+Serves 2 people
 
-| Amount | Item |
-| ------ | ---- |
-| 600ml  | milk |
+| Amount      | Item      |
+| ----------- | --------- |
+| 6-8 medium  | potatoes  |
+| 1 med-large | onion     |
+| 4           | eggs      |
+|             | olive oil |
+|             | salt      |
 
 ## Instructions
 
-1. ...
+1. Finely chop the onion. Heat a pan to medium and add 3 tablespoons of olive oil. Add the onions and cook for at least 5-6 minutes.
+
+2. Peel and chop the potatoes into slices that are just less than 1/2 cm thick. If there are any slices that are more than 2cm x 2cm wide, slice them in half (it makes it easier for cooking). It's important to make sure your slices are consistently thick.
+
+3. Add the potatoes to the pan. Fry on low-medium heat until they are soft. This can take between 25-40 minutes. It depends on the kind of potatoes you have. Test the softness of the potato with a fork.
+
+4. Beat the eggs in a large bowl. Use a spatula to transfer the potatoes and onions to the bowl with the eggs. Try to avoid adding oil to the eggs (keep the pan with the oil). Combine the ingredients and optionally, use a fork to slightly crush the potatoes. If you do this, be careful not to turn the potatoes into mash - you want to keep some structure in the potatoes.
+
+5. Get a good, non-stick pan (ideally about 24cm wide). Transfer about 1 tablespoon of the olive oil used for cooking. Bring to medium heat. Pour the mixture into the pan. Cook for 5 minutes.
+
+6. Get a large plate, press it against the top of the pan and turn the plate together with the pan to flip the tortilla. Slide the tortilla back into the pan to cook the other side. Cook for 5 minutes.
+
+7. Do one more flip with a clean plate and serve.
