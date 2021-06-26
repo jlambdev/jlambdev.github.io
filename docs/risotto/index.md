@@ -38,4 +38,4 @@ Serves 4-5 people
 
 8. Then add another 1-2 ladels of stock, allow the rice to absorb and repeat until there is no stock remaining.
 
-9. When the rice is al dente (almost done), take it off the heat off and add the remaining butter and the cheeses (creaming). Stir and cover with a lid. After a couple of minutes it should be ready to serve. Enjoy!
+9. When the rice is al dente (almost done), take it off the heat off and add the remaining butter and the cheeses (creaming). Stir, cover with a lid and leave it for about 10 minutes. This is the 'creaming' process and allows the butter & cheeses to incorporate with the rice. It's worth the wait!
