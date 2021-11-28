@@ -12,8 +12,8 @@
 -   [Jambalaya](https://jlambdev.github.io/docs/jambalaya)
 -   [Tortilla ⓥ](https://jlambdev.github.io/docs/tortilla)
 -   [Mushroom and Red Wine Risotto ⓥ](https://jlambdev.github.io/docs/risotto)
+-   [Salmon and Leek Lasagna](https://jlambdev.github.io/docs/salmonleeklasagna)
 -   Cod in Parsley Sauce
--   Salmon and Leek Lasagna
 -   Kanelbullar (Swedish Cinnamon Rolls) ⓥ
 -   Forell with Turmeric Onions & Potatoes
 
