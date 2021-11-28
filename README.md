@@ -15,7 +15,7 @@
 -   [Salmon and Leek Lasagna](https://jlambdev.github.io/docs/salmonleeklasagna)
 -   Cod in Parsley Sauce
 -   Kanelbullar (Swedish Cinnamon Rolls) ⓥ
--   Forell with Turmeric Onions & Potatoes
+-   Trout with Turmeric Onions & Potatoes
 
 Recipes marked with ⓥ are vegetarian. In some cases they are vegan / plant-based substitutes can be used.
 
