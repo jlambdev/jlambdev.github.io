@@ -6,21 +6,21 @@
 
 Serves 3-4 people
 
-| Amount  | Item            |
-| ------- | --------------- |
-| 750g    | salmon          |
-| 2-3     | leeks           |
-| 1       | courgette       |
-| 1 litre | whole milk      |
-| 110g    | butter          |
-| 80g     | emmental cheese |
-| 80g     | plain flour     |
-| 9-12    | lasagna sheets  |
-|         | olive oil       |
-|         | salt            |
-|         | black pepper    |
-|         | nutmeg          |
-|         | dill            |
+| Amount | Item            |
+| ------ | --------------- |
+| 750g   | salmon          |
+| 2-3    | leeks           |
+| 1      | courgette       |
+| 900ml  | whole milk      |
+| 110g   | butter          |
+| 80g    | emmental cheese |
+| 80g    | plain flour     |
+| 9-12   | lasagna sheets  |
+|        | olive oil       |
+|        | salt            |
+|        | black pepper    |
+|        | nutmeg          |
+|        | dill            |
 
 ## Instructions
 
@@ -28,7 +28,7 @@ Serves 3-4 people
 
 2. Preheat the oven to 200C.
 
-3. Begin to lighly fry the leeks for 10-12 minutes in a covered pan with 2 tablespoons of olive oil and 30g of butter. After 8 minutes, add the salmon flakes to partially cook them. Add about a half teaspoon of dill.
+3. Begin to lighly fry the leeks & courgette for 10-12 minutes in a covered pan with 2 tablespoons of olive oil and 30g of butter. After 8 minutes, add the salmon flakes to partially cook them. Add about a half teaspoon of dill.
 
 4. Melt 70g of butter in a large saucepan on low heat. Gradually add flour, toasting it and stirring constantly. Add the milk gradually (optionally heat it first with salt). Beat and stir until it is all integrated and the flour lumps are dissolved.
 
