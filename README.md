@@ -11,8 +11,9 @@
 -   [Torrijas ⓥ](https://jlambdev.github.io/docs/torrijas)
 -   [Jambalaya](https://jlambdev.github.io/docs/jambalaya)
 -   [Tortilla ⓥ](https://jlambdev.github.io/docs/tortilla)
--   [Mushroom and Red Wine Risotto ⓥ](https://jlambdev.github.io/docs/risotto)
--   [Salmon and Leek Lasagna](https://jlambdev.github.io/docs/salmonleeklasagna)
+-   [Mushroom and Red Wine Risotto ⓥ ✯](https://jlambdev.github.io/docs/risotto)
+-   [Salmon and Leek Lasagna ✯](https://jlambdev.github.io/docs/salmonleeklasagna)
+-   [Chicken Tarragon with Tagliatelle](https://jlambdev.github.io/docs/chickentarragon)
 -   Cod in Parsley Sauce
 -   Kanelbullar (Swedish Cinnamon Rolls) ⓥ
 -   Trout with Turmeric Onions & Potatoes
