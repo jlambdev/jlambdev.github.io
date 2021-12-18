@@ -20,6 +20,6 @@
 
 Recipes marked with ⓥ are vegetarian. In some cases they are vegan / plant-based substitutes can be used.
 
-Recipes marked with ✯ have been enjoyed and approved by friends.
+Recipes marked with ✯ have been enjoyed and approved by friends
 
 Recipes without a link are still being tested / not ready yet :)
