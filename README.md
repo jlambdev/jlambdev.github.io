@@ -14,6 +14,8 @@
 -   [Mushroom and Red Wine Risotto ⓥ ✯](https://jlambdev.github.io/docs/risotto)
 -   [Salmon and Leek Lasagna ✯](https://jlambdev.github.io/docs/salmonleeklasagna)
 -   [Chicken Tarragon with Tagliatelle](https://jlambdev.github.io/docs/chickentarragon)
+-   [Leek and Potato Soup](https://onlyrecipe.app/?url=https://veggiedesserts.com/potato-leek-soup/)
+-   [Vegetarian Chili](https://onlyrecipe.app/?url=https://cookieandkate.com/vegetarian-chili-recipe/)
 -   Cod in Parsley Sauce
 -   Kanelbullar (Swedish Cinnamon Rolls) ⓥ
 -   Trout with Turmeric Onions & Potatoes
